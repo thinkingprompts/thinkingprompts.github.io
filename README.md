@@ -1,19 +1,19 @@
 # Creative Thinking
 - **SCAMPER**
-  - Substitute
-  - Combine
-  - Adapt
-  - Modify
-  - Put to other purposes
-  - Eliminate
-  - Rearrage/Reverse
+  1. Substitute
+  2. Combine
+  3. Adapt
+  4. Modify
+  5. Put to other purposes
+  6. Eliminate
+  7. Rearrage/Reverse
 - **QUESTION**
-  - Why
-  - What
-  - Who
-  - When
-  - Where
-  - How
+  1. Why
+  2. What
+  3. Who
+  4. When
+  5. Where
+  6. How
 - **40 Inventive Principles**
   1. Segmentation
   2. Removal/Extraction
