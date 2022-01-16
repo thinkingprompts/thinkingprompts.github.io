@@ -15,13 +15,13 @@
   5. Where
   6. How
 - **Separation Principles**
-- Physical Contradition
+  - Physical Contradition
   1. Separtion in Space
   2. Separation in Time
   3. Separation in Scale
   4. Separation upon Conditions
 - **40 Inventive Principles**
-- Technical Contradition
+  - Technical Contradition
   1. Segmentation
   2. Removal/Extraction
   3. Local Quality
