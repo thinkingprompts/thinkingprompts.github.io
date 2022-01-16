@@ -1,10 +1,10 @@
-## Substitute
-## Combine
-## Adapt
-## Modify
-## Put to other purposes
-## Eliminate
-## Rearrage/Reverse
+# Substitute
+# Combine
+# Adapt
+# Modify
+# Put to other purposes
+# Eliminate
+# Rearrage/Reverse
 
 
 ## Welcome to GitHub Pages
