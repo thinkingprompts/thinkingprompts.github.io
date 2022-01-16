@@ -1,3 +1,11 @@
+## Substitute
+## Combine
+## Adapt
+## Modify
+## Put to other purposes
+## Eliminate
+## Rearrage/Reverse
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/thinkingprompts/thinkingprompts.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
