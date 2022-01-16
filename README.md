@@ -7,3 +7,10 @@
   - Put to other purposes
   - Eliminate
   - Rearrage/Reverse
+- **QUESTION**
+  - Why
+  - What
+  - Who
+  - When
+  - Where
+  - How
