@@ -5,8 +5,18 @@ h1 {
 h2 {
   color: blue;
 }
+
 p {
   color: blue;
   font-size: 20px;
   margin: 50px;
+}
+
+ul {
+  font-size: 20px;
+  
+}
+
+ol {
+  font-size: 20px;
 }
