@@ -1,22 +1,32 @@
 h1 {
   color: blue;
+  margin-left: 50px;
 }
 
 h2 {
   color: blue;
+  margin-left: 50px;
 }
+
+h3 {
+  color: blue;
+  margin-left: 50px;
+}
+
 
 p {
   color: blue;
   font-size: 20px;
-  margin: 50px;
+  margin-left: 50px;
 }
 
 ul {
   font-size: 20px;
+  margin-left: 50px;
   
 }
 
 ol {
   font-size: 20px;
+  margin-left: 50px;
 }
