@@ -36,6 +36,7 @@ table, th, td {
 }
 
 img {
+  margin-left: 50px;
   width: 50%;
   height: auto;
 }
