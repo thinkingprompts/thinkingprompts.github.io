@@ -1,1 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Strategic Thinking</title>
+  <link rel="stylesheet" href="styles1.css">
+</head>
+<body>
 
+  <h2>Systems Thinking</h2>
+  <img src="images/iceberg.jpg" alt="Iceberg">
+  
+  <h2>Level of Understanding</h2>
+  <img src="images/level_of_understanding.jpg" alt="Understanding">
+  <p>
+  </p>
+  
+  <h2>Systems Thinking Tools</h2>
+  <img src="images/systems_thinking_tools.jpg" alt="Tools">
+  <p>
+  </p>
+  <img src="images/systems_thinking_tools_legend.jpg" alt="Legend">
+
+</body>
+</html>
